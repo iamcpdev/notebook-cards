@@ -144,7 +144,7 @@ export function getHtml(parsedReq: ParsedRequest) {
   <body>
     <div class="brand">
       <img class="avatar" src="https://github.com/iamcpdev.png">
-      @lachlanjc/<span class="subbrand">notebook</span>
+      @iamcpdev/<span class="subbrand">notebook</span>
     </div>
     <div class="spacer">
       ${
